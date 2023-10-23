@@ -2,7 +2,7 @@
 
 # Projeto Java ( tarefas-ebac-jeferson-tigik)
 
-![Java Logo](java-logo.png)
+![Java Logo](https://cdn-icons-png.flaticon.com/128/226/226777.png)
 
 ## Descrição do Projeto
 
