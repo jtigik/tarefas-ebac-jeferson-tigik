@@ -1,13 +1,12 @@
 ---
 
-# Projeto Java ( tarefas-ebac-seu-jeferson-tigik)
+# Projeto Java ( tarefas-ebac-jeferson-tigik)
 
 ![Java Logo](java-logo.png)
 
 ## Descrição do Projeto
 
-Este repositório contém o código-fonte e recursos relacionados ao nosso emocionante projeto Java, que visa o compartilhamento de exercícios e tarefas concluidas. O projeto é desenvolvido em Java, uma linguagem de programação poderosa e versátil, e possui como principal objetivo [insira os principais objetivos do projeto aqui].
-
+Este repositório contém o código-fonte e recursos relacionados ao nosso emocionante projeto Java, que visa o compartilhamento de exercícios e tarefas concluidas. O projeto é desenvolvido em Java, uma linguagem de programação poderosa e versátil.
 ## Pré-requisitos
 
 Antes de começar a usar ou contribuir para este projeto, certifique-se de que você tenha as seguintes ferramentas e tecnologias instaladas:
@@ -22,13 +21,13 @@ Siga estas etapas para configurar e executar o projeto localmente:
 1. Clone este repositório em sua máquina:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/jtigik/tarefas-ebac-jeferson-tigik.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd nome-do-projeto
+   cd tarefas-ebac-jeferson-tigik
    ```
 
 3. [Outras instruções de instalação, como configuração de banco de dados ou configuração de variáveis de ambiente, se aplicável]
